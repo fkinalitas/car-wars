@@ -6,4 +6,5 @@ Car Wars Documentation
 
 Screenshot
 
+![Screenshot]
 (https://github.com/fkinalitas/car-wars/blob/master/screenshot_car_wars.png)
